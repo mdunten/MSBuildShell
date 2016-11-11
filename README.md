@@ -15,4 +15,5 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe C:\Scripts\MSBuildSh
 ```
 
 Author and founder of the MSBuild Application Whitelisting Bypass code: Casey Smith, Twitter: @subTee
+
 Powershell Host Code: Original from Microsoft (MSDN), modified by Cn33liz, Twitter: @Cneelis
