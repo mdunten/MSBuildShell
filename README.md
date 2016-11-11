@@ -1,5 +1,7 @@
 ### MSBuildShell, a Powershell Host running within MSBuild.exe
 
+This code let's you Bypass Application Whitelisting and Powershell.exe restrictions and gives you a shell that almost looks and feels like a normal Powershell session (Get-Credential, PSSessions -> Works, Tab Completion -> Unfortunately not).
+
 License: BSD 3-Clause
 
 Save This File And Execute The Following Command:
