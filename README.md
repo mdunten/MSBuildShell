@@ -1,6 +1,7 @@
 ### MSBuildShell, a Powershell Host running within MSBuild.exe
 
 This code let's you Bypass Application Whitelisting and Powershell.exe restrictions and gives you a shell that almost looks and feels like a normal Powershell session (Get-Credential, PSSessions -> Works, Tab Completion -> Unfortunately not).
+It will also bypass the Antimalware Scan Interface (AMSI), which provides enhanced malware protection for Powershell scripts.
 
 License: BSD 3-Clause
 
@@ -17,3 +18,5 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe C:\Scripts\MSBuildSh
 Author and founder of the MSBuild Application Whitelisting Bypass code: Casey Smith, Twitter: @subTee
 
 Powershell Host Code: Original from Microsoft (MSDN), modified by Cn33liz, Twitter: @Cneelis
+
+Amsi Bypass Oneliner (obfuscated with @danielhbohannon Invoke-Obfuscation): Matt Graeber, Twitter: @mattifestation
